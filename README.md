@@ -37,7 +37,7 @@
 
 <br />
 
-![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=algolia&quote=My%20Quote&border=true)
+![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=algolia&quote=Simplicity,%20carried%20to%20the%20extreme,%20becomes%20elegance.&border=true&author=Jon%20Franklin)
 
 
 <!--Contact Section--> 
