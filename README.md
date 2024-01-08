@@ -33,6 +33,10 @@
 </p>
 <br />
 
+<p align="center">
+<img width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann082&layout=compact"  />
+</p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mann082&layout=compact)
 
 <br />
