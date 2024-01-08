@@ -12,7 +12,7 @@
 ##
 
 #### About Me
-
+<!-- My about section-->
 > - 🌍 I'm based in Indore.
 > - 🖥️ See my portfolio at [coming soon!](https://#).
 > - ✉️ You can contact me at [LinkedIn](https://https://www.linkedin.com/in/mann-gupta1/).
@@ -22,7 +22,14 @@
 > - 💬 Ask me about C++, JavaScript, Dart, Flutter, Nodejs and building scalable web and mobile applications.
 
 ##
-
+<!--Profile view counter-->
 ![](https://komarev.com/ghpvc/?username=Mann082&style=for-the-badge&color=blueviolet)
 
 ##
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=c,cpp,py,java,js,dart,html,css,nodejs,express,mongo,git,vscode,postman,linux,mysql,firebase,flutter,androidstudio,bash,bootstrap,codepen,devto,dotnet,gcp,github,kotlin,pug,sqlite,stackoverflow,unity,unreal&perline=10"  />
+</p>
+<br />
+
