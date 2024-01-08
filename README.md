@@ -37,11 +37,14 @@
 <img width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann082&layout=compact"  />
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mann082&layout=compact)
-
 <br />
 
-![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=algolia&quote=Simplicity,%20carried%20to%20the%20extreme,%20becomes%20elegance.&border=true&author=Jon%20Franklin)
+<p align="center">
+<img width="500px"  src="https://quotes-github-readme.vercel.app/api?theme=algolia&quote=Simplicity,%20carried%20to%20the%20extreme,%20becomes%20elegance.&border=true&author=Jon%20Franklin"  />
+</p>
+
+
+<br />
 
 
 <!--Contact Section--> 
