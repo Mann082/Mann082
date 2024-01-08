@@ -32,7 +32,9 @@
 <img width="500px"  src="https://skillicons.dev/icons?i=c,cpp,py,java,js,dart,html,css,nodejs,express,mongo,git,vscode,postman,linux,mysql,firebase,flutter,androidstudio,bash,bootstrap,codepen,devto,dotnet,gcp,github,kotlin,pug,sqlite,stackoverflow,unity,unreal&perline=10"  />
 </p>
 <br />
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mann082&layout=compact)
+
 <br />
 
-![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=algolia&quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
+![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=algolia&quote=My%20Quote)
